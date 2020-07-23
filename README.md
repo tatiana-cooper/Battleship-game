@@ -10,7 +10,7 @@ Player's take turns to guess by entering out the coordinates. The opponent respo
 As soon as all of one player's ships have been sunk, the game ends.
 
 ![image](https://drive.google.com/uc?export=view&id=1KxhYBCV0-j7K_2Uy9tYfGu2cyBbTRQYx)
-![image](https://drive.google.com/uc?export=view&id=1hDNw6hrOTwUdiw37MsodD9nBhSbDtFDb)
+![image](https://drive.google.com/uc?export=view&id=1haKOjjVOi_vkuEf1eerfU1mQ-9Iq9evY)
 
 ## Files
 
